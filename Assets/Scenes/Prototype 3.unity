@@ -644,6 +644,8 @@ MonoBehaviour:
   gameOver: 0
   explosionParticle: {fileID: 1738386754}
   dirtParticle: {fileID: 600409732}
+  jumpSound: {fileID: 8300000, guid: 08ab7053d586c458db3774d33c141a4b, type: 3}
+  crashSound: {fileID: 8300000, guid: e7ee25a47d63b46cdaf65480d62b405c, type: 3}
 --- !u!65 &760044711
 BoxCollider:
   m_ObjectHideFlags: 0
